@@ -1,0 +1,6 @@
+.program{
+    margin: 15px;
+}
+.program h5{
+    color: var(--color-light);
+}
