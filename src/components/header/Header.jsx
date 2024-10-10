@@ -1,7 +1,7 @@
 import React from 'react'
 import ActionLinks from './ActionLinks'
 import me from '../../assets/me.jpg'
-import Socials from '../../components/header/socials.jsx'
+import Socials from '../../components/header/Socials.jsx'
 const Header = () => {
   return (
     <header className='h-[105vh] pt-28 overflow-hidden max-sm:pt-9'>
